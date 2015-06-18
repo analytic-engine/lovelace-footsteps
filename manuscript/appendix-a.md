@@ -27,8 +27,16 @@ Virtual Machine
 Next step is obtaining the virtual machine created for this
 workshop. It can be downloaded from [GitHub][ada-vm].
 
+Convenient Package
+------------------
+
+Instead of downloading the VirtualBox installer and the virtual
+machine seperatly you can also download the [material][] in one fell
+swoop. It includes installers for platforms Windows, OSX and Ubuntu
+and the the virtual machine.
 
 [virtualbox]: https://www.virtualbox.org/
 [vm]: https://en.wikipedia.org/wiki/Virtual_machine
 [virtualbox-download]: https://www.virtualbox.org/wiki/Downloads
 [ada-vm]:
+[material]
