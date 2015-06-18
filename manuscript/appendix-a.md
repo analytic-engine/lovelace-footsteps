@@ -21,7 +21,14 @@ It runs on Windows, Linux, Macintosh and Solaris. You can find an
 appropriate installer for you platform at the
 [VirtualBox download][virtualbox-download] page.
 
+Virtual Machine
+---------------
+
+Next step is obtaining the virtual machine created for this
+workshop. It can be downloaded from [GitHub][ada-vm].
+
 
 [virtualbox]: https://www.virtualbox.org/
 [vm]: https://en.wikipedia.org/wiki/Virtual_machine
 [virtualbox-download]: https://www.virtualbox.org/wiki/Downloads
+[ada-vm]:
