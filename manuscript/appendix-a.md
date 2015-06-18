@@ -45,6 +45,9 @@ To use the virtual machine proceed along with the following steps
 3. Select the downloaded virtual machine
 4. Start the virtual machine
 
+This starts a virtual machine. The user on the machine is **ada** and
+their password is **lovelace**.
+
 [virtualbox]: https://www.virtualbox.org/
 [vm]: https://en.wikipedia.org/wiki/Virtual_machine
 [virtualbox-download]: https://www.virtualbox.org/wiki/Downloads
