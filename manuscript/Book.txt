@@ -1,3 +1,4 @@
 introduction.md
 ada-lovelace.md
 appendix-a.md
+appendix-b.md
