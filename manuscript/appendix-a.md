@@ -26,7 +26,7 @@ appropriate installer for you platform at the
 ### Virtual Machine
 
 Next step is obtaining the virtual machine created for this
-workshop. It can be downloaded from [GitHub][ada-vm].
+workshop. It can be downloaded from [Amazon S3][ada-vm].
 
 ### Convenient Package
 
@@ -51,5 +51,5 @@ their password is **lovelace**.
 [virtualbox]: https://www.virtualbox.org/
 [vm]: https://en.wikipedia.org/wiki/Virtual_machine
 [virtualbox-download]: https://www.virtualbox.org/wiki/Downloads
-[ada-vm]:
-[material]
+[ada-vm]: https://s3-eu-west-1.amazonaws.com/ada-lovelace/SPA-Ada-Lovelace.ova
+[material]: https://s3-eu-west-1.amazonaws.com/ada-lovelace/material.zip
