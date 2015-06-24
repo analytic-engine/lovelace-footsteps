@@ -1,6 +1,7 @@
 intro.md
 ada-lovelace.md
 analytic-engine.md
+cards.md
 glossary.md
 appendix-a.md
 appendix-b.md
