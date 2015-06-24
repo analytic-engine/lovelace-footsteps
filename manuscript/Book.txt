@@ -1,4 +1,4 @@
-introduction.md
+intro.md
 ada-lovelace.md
 glossary.md
 appendix-a.md
