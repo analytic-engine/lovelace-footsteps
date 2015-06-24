@@ -35,6 +35,12 @@ The mill is where numbers are operated on. It employs the same rotors
 as the store, but has additional mechanism to perform arithmetic
 operations. The mill is truly the heart of the Analytic Engine.
 
+Card Readers
+------------
+
+Card readers are employed to setup and operate the Analytic
+Engine. Several types of cards are employed that will be described
+more closely in the chapters to come.
 
 [charles-babbage]: https://en.wikipedia.org/wiki/Charles_Babbage
 [jacquard-loom]: https://en.wikipedia.org/wiki/Jacquard_loom
