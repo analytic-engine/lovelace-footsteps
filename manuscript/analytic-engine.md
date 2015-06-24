@@ -28,6 +28,13 @@ Note that the rotors have no notion of a decimal point. A rotor set to
 `37` could represent any and more of the numbers `37`, `3.7`, `0.37`
 etcetera.
 
+Mill
+----
+
+The mill is where numbers are operated on. It employs the same rotors
+as the store, but has additional mechanism to perform arithmetic
+operations. The mill is truly the heart of the Analytic Engine.
+
 
 [charles-babbage]: https://en.wikipedia.org/wiki/Charles_Babbage
 [jacquard-loom]: https://en.wikipedia.org/wiki/Jacquard_loom
