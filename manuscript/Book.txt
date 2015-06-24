@@ -1,5 +1,6 @@
 intro.md
 ada-lovelace.md
+analytic-engine.md
 glossary.md
 appendix-a.md
 appendix-b.md
