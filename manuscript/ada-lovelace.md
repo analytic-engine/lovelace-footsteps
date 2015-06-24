@@ -1,9 +1,8 @@
 # Ada Lovelace
 
-From wikipedia
-
-{width=50%,float=left}
 ![Ada Lovelace](images/ada-lovelace.jpg "Augusta Ada King, Countess of Lovelace")
+
+From wikipedia
 
 > Augusta Ada King, Countess of Lovelace (10 December 1815 – 27
 > November 1852), born Augusta Ada Byron and now commonly known as Ada
