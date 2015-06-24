@@ -3,9 +3,6 @@ Analytic Engine
 
 ![Plans for the Analytic Engine](images/analytic-engine.jpg)
 
-{width=50%,float=right}
-![Charles Babbage](images/babbage.jpg)
-
 The Analytic Engine is the brain child of
 [Charles Babbage][charles-babbage]. The machine is heavily inspired by
 an other product of the industrial revolution: the
