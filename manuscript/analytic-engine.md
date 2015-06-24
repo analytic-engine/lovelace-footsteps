@@ -42,5 +42,16 @@ Card readers are employed to setup and operate the Analytic
 Engine. Several types of cards are employed that will be described
 more closely in the chapters to come.
 
+Excercises
+----------
+
+1. Compare the parts of the Analytic Engine with parts from a
+   contemporary computer.
+2. Discuss your findings with somebody else.
+
+If you are interested in computer architecture, I recommend the book
+[The elements of computing systems][nand2tetris]
+
 [charles-babbage]: https://en.wikipedia.org/wiki/Charles_Babbage
 [jacquard-loom]: https://en.wikipedia.org/wiki/Jacquard_loom
+[nand2tetris]: http://www.nand2tetris.org/
