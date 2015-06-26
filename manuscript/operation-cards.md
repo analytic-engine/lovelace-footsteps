@@ -65,3 +65,9 @@ The four different operations that the mill can perform, i.e. addition, substrac
 > the Primed Egress Axis and the remainder on the Egress Axis. If the
 > quotient is larger than 50 digits or the divisor is zero, the run-up
 > lever is set.
+
+Excercises
+----------
+
+1. Provide examples of a operations that will set the run-up lever.
+2. Did you imagine operation cards to be part of the analytic engine?
