@@ -44,6 +44,11 @@ Z1
 S2
 ```
 
+### Primed Variable Cards
+
+For each type of variable card there is a primed variant that
+transfers from/to the corresponding primed axis.
+
 Excercises
 ----------
 
