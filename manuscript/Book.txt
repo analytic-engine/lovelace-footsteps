@@ -3,6 +3,7 @@ ada-lovelace.md
 analytic-engine.md
 cards.md
 number-cards.md
+operation-cards.md
 variable-cards.md
 glossary.md
 appendix-a.md
