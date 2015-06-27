@@ -6,6 +6,7 @@ number-cards.md
 operation-cards.md
 variable-cards.md
 operating-analytic-engine.md
+programs.md
 glossary.md
 appendix-a.md
 appendix-b.md
