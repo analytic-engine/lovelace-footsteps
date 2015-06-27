@@ -10,6 +10,7 @@ programs.md
 combinatoric-cards.md
 programs-reloaded.md
 miscellaneous-cards.md
+what-to-do.md
 glossary.md
 appendix-a.md
 appendix-b.md
