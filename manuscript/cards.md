@@ -9,6 +9,9 @@ The analytic engine used three different types of cards, each with its
 own reader, to configure and operate. Each type of card will be
 described in the following chapters.
 
+For more indepth information, see the
+[full documentation][full-documentation].
+
 Excercises
 ----------
 
@@ -18,3 +21,4 @@ Excercises
    type of cards. Validate your reasoning with somebody else.
 
 [punch-card]: https://en.wikipedia.org/wiki/Punched_card
+[full-documentation]: http://www.fourmilab.ch/babbage/cards.html
