@@ -8,6 +8,7 @@ variable-cards.md
 operating-analytic-engine.md
 programs.md
 combinatoric-cards.md
+programs-reloaded.md
 glossary.md
 appendix-a.md
 appendix-b.md
