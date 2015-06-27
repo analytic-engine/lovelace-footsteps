@@ -6,11 +6,11 @@ Operation Cards
 Axis
 ----
 
-The mill has are three different columns or **axis** called ingress
+The mill has three different columns or **axis** called ingress
 axis 1, ingress axis 2 and Egress axis. The two ingress axis are
 operated upon and the result will be put on the egress axis.
 
-### Primes axis
+### Primed axis
 
 Beside each regular axis there are is also a primed axis. These axis
 were introduced by Babbage because he wanted to divide a 100 digit
@@ -19,7 +19,7 @@ number.
 ### Run-up lever
 
 During exception execution of a operation the **run-up lever** is used
-to signal.
+to signal the exceptional situation.
 
 Representation
 --------------

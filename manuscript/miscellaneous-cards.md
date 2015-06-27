@@ -2,7 +2,7 @@ Miscellaneous Cards
 ===================
 
 The following cards are available to a programmer as well. You can
-find detailed [instructions][full-documentation] for these and other
+find detailed [instructions][] for these and other
 cards in the documentation.
 
 Historic
@@ -28,4 +28,4 @@ Apocryphal
 | }{   | Conditional skip alternation (else clause). |
 | }    | End skip (advancing).                       |
 
-[full-documentation]: http://www.fourmilab.ch/babbage/cards.html
+[instructions]: http://www.fourmilab.ch/babbage/cards.html

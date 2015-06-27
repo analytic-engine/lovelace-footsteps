@@ -7,7 +7,7 @@ Analytic Engine to do some calculations.
 Excercises
 ----------
 
-Create and run a program that perform the following calculations
+Create and run a program that perform the following calculation
 
 1. sum two numbers.
 2. square a number.

@@ -60,5 +60,5 @@ actual programs.
 
 Create and run programs that calculate
 
-3. a factorial of a on a store number.
+3. a factorial of a value on a store column.
 4. sum of the first `n` squares.
