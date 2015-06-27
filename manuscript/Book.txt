@@ -9,6 +9,7 @@ operating-analytic-engine.md
 programs.md
 combinatoric-cards.md
 programs-reloaded.md
+miscellaneous-cards.md
 glossary.md
 appendix-a.md
 appendix-b.md
